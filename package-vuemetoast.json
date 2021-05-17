@@ -1,0 +1,35 @@
+{
+  "name": "vue-metoast",
+  "version": "1.0.10",
+  "description": "",
+  "main": "dist/vue-toast.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "homepage": "https://github.com/purpletastes/vue-plugins#readme",
+  "keywords": [
+    "vue",
+    "metoast"
+  ],
+  "author": {
+    "name": "purpletastes",
+    "email": "573546735@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purpletastes/vue-plugins.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.12"
+  },
+  "bugs": {
+    "url": "https://github.com/purpletastes/vue-plugins/issues"
+  },
+  "devDependencies": {
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0"
+  }
+}
